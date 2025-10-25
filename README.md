@@ -34,4 +34,4 @@ I love **building mobile apps, solving coding challenges, and learning new techn
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.caixasmarin@gmail.com)
 
 
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcaixs&show_icons=true&theme=radical
