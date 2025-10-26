@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Marc!
 
-I'm an aspiring **Full Stack Developer** passionate about creating **web and mobile applications**. 🚀  
+I'm a **Full Stack Developer** passionate about creating **web and mobile applications**. 🚀  
 I love **building mobile apps, solving coding challenges, and learning new technologies**! 💡
 
 ---
@@ -24,7 +24,6 @@ I love **building mobile apps, solving coding challenges, and learning new techn
 
 ## 🌱 Currently Learning
 - **Flutter** for cross-platform mobile apps
-- **Advanced React & Node.js**
 - **Full Stack Project Deployment**
 
 ---
